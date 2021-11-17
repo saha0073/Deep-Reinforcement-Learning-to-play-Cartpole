@@ -22,6 +22,8 @@ but not limited to robotics, video games, natural language processing, computer 
 * Train the DQN model using Deep Q policy based learning with Keras-RL
 * Play CartPole with the trained DQN
 
+![pic](https://github.com/saha0073/Playing-cartpole-with-Deep-Reinforcement-Learning/blob/main/cartpool.PNG)
+
 ## References
 
 * Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). Playing atari with deep reinforcement learning. [arXiv preprint arXiv:1312.5602](https://arxiv.org/abs/1312.5602).
@@ -30,7 +32,7 @@ but not limited to robotics, video games, natural language processing, computer 
 
 * Difference between Reinforcement Learning and Deep Reinforcement Learning by [techopedia](https://www.techopedia.com/reinforcement-learning-vs-deep-reinforcement-learning-whats-the-difference/2/34039).
 
-This project has been inspired by the [youtube tutorial of Nicholas Reotte](https://www.youtube.com/watch?v=cO5g5qLrLSo&t=904s&ab_channel=NicholasRenotte).   
+This project has been inspired by the [youtube tutorial] (https://www.youtube.com/watch?v=cO5g5qLrLSo&t=904s&ab_channel=NicholasRenotte) of Nicholas Reotte, so Thanks Nicholas!   
 
 
 
