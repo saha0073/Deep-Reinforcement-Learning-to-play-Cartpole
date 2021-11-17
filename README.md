@@ -22,7 +22,7 @@ but not limited to robotics, video games, natural language processing, computer 
 * Train the DQN model using Deep Q policy based learning with Keras-RL
 * Play CartPole with the trained DQN
 
-![pic](https://github.com/saha0073/Playing-cartpole-with-Deep-Reinforcement-Learning/blob/main/cartpool.PNG)
+![pic](https://github.com/saha0073/Deep-Reinforcement-Learning-to-play-Cartpole/blob/main/cartpool.PNG)
 
 ## References
 
