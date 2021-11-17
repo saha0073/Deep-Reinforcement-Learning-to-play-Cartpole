@@ -1,4 +1,4 @@
-# Playing-cartpole-with-Deep-Reinforcement-Learning
+# Deep-Reinforcement-Learning-to-play-Cartpole
 
 ## Techniques used
 
