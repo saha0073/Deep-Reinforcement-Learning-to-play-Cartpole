@@ -24,6 +24,10 @@ but not limited to robotics, video games, natural language processing, computer 
 
 ![pic](https://github.com/saha0073/Deep-Reinforcement-Learning-to-play-Cartpole/blob/main/cartpool.PNG)
 
+## Performance
+
+The performance was determined based on the score the computer attain in playing Cartpole, so for instance if the computer can hold the stick inside cart until 55 steps before failing then the score becomes 55. With random decision in each step the computer reach score of 20, when DQN is trained the computer achieves a score of 200.   
+
 ## References
 
 * Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). Playing atari with deep reinforcement learning. [arXiv preprint arXiv:1312.5602](https://arxiv.org/abs/1312.5602).
@@ -32,7 +36,7 @@ but not limited to robotics, video games, natural language processing, computer 
 
 * Difference between Reinforcement Learning and Deep Reinforcement Learning by [techopedia](https://www.techopedia.com/reinforcement-learning-vs-deep-reinforcement-learning-whats-the-difference/2/34039).
 
-This project has been inspired by the [youtube tutorial] (https://www.youtube.com/watch?v=cO5g5qLrLSo&t=904s&ab_channel=NicholasRenotte) of Nicholas Reotte, so Thanks Nicholas!   
+This project has been inspired by the [youtube tutorial](https://www.youtube.com/watch?v=cO5g5qLrLSo&t=904s&ab_channel=NicholasRenotte) of Nicholas Reotte, so Thanks Nicholas!   
 
 
 
