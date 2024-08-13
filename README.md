@@ -3,7 +3,7 @@
 ## Techniques used
 
 * Modeling Technique: Deep Reinforcement Learning, Deep Q-Network (DQN), Deep Neural Network
-* Tech Stack: Python, OpenAI gym, Tensorflow, Keras-RL
+* Tech Stack: Python, Tensorflow, Keras-RL, OpenAI gym,
 
 ## Deep Reinforcement Learning 
 
